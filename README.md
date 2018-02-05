@@ -1,1 +1,1 @@
-# memo of cgo
+# Minimal samples of cgo
