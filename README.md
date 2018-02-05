@@ -1,1 +1,1 @@
-# cgo
+# memo of cgo
