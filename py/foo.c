@@ -10,6 +10,7 @@
 */
 
 #include <stdio.h>
+#include <Python.h>
 #include "foo.h"
 
 
