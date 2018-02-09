@@ -7,7 +7,7 @@
 
 ## Environment
 
-* Windows 7 Professional SP1 64bit
+* Windows 7 Professional SP1 64bit / Windows 10 Pro 64bit
 * Go 1.9.3 windows/amd64
 * MSYS64
   * gcc (Rev2, Built by MSYS2 project) 7.3.0
