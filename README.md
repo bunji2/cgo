@@ -28,6 +28,7 @@ $ pacman -Su
 
 $ pacman -S base-devel
 $ pacman -S mingw-w64-x86_64-toolchain
+$ pacman -S mingw-w64-x86_64-python2
 ```
 
 ## Installing GoLang
