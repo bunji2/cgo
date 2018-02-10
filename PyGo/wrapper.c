@@ -38,7 +38,7 @@ PyObject* foo_make_greet(PyObject* self, PyObject* args) {
 
 PyObject* foo_mydiv(PyObject* self, PyObject* args) {
 	int x, y;
-    struct mydiv_return g;
+	struct mydiv_return g;
 
 	if (!PyArg_ParseTuple(args, "ii", &x, &y))
 		return NULL;
